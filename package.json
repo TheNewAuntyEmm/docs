@@ -167,7 +167,7 @@
     ]
   },
   "dependencies": {
-    "@elastic/elasticsearch": "8.19.1",
+    "@elastic/elasticsearch": "8.19.2",
     "@github/failbot": "1.1.1",
     "@github/hydro-analytics-client": "^2.4.1",
     "@gr2m/gray-matter": "4.0.3-with-pr-137",
