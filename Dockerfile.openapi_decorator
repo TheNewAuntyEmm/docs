@@ -1,4 +1,4 @@
-FROM node:24-alpine@sha256:7d042bda1f5999f5bd14a23e9e62d9c320cceb68f93f167ce01ca3ecbd9cef71
+FROM node:24-alpine@sha256:1200d815de24f8dcca745fbf7651d166034a35adbcad8860a8538ffff44f1420
 
 WORKDIR /openapi-check
 
